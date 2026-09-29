@@ -1,0 +1,302 @@
+[
+  {
+    "id": "torso-press-inclinado-mancuernas",
+    "name": "Press inclinado con mancuernas",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-press-declinado-barra",
+    "name": "Press declinado con barra",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-press-pecho-maquina",
+    "name": "Press de pecho en máquina",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-aperturas-mancuernas",
+    "name": "Aperturas con mancuernas",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-cruce-poleas",
+    "name": "Cruce de poleas",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-flexiones",
+    "name": "Flexiones",
+    "macroCategory": "torso",
+    "muscleGroup": "Pecho"
+  },
+  {
+    "id": "torso-remo-mancuerna",
+    "name": "Remo con mancuerna",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-remo-polea-baja",
+    "name": "Remo en polea baja",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-remo-t-bar",
+    "name": "Remo T-bar",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-pullover-polea",
+    "name": "Pullover en polea",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-jalon-agarre-neutro",
+    "name": "Jalón con agarre neutro",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-jalon-agarre-supino",
+    "name": "Jalón con agarre supino",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-remo-invertido",
+    "name": "Remo invertido",
+    "macroCategory": "torso",
+    "muscleGroup": "Espalda"
+  },
+  {
+    "id": "torso-encogimientos-barra",
+    "name": "Encogimientos con barra",
+    "macroCategory": "torso",
+    "muscleGroup": "Trapecio"
+  },
+  {
+    "id": "torso-press-arnold",
+    "name": "Press Arnold",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-press-mancuernas",
+    "name": "Press de hombros con mancuernas",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-elevaciones-frontales-mancuerna",
+    "name": "Elevaciones frontales con mancuerna",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-elevaciones-laterales-maquina",
+    "name": "Elevaciones laterales en máquina",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-face-pull",
+    "name": "Face pull",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-pajaro-mancuernas",
+    "name": "Pájaro con mancuernas",
+    "macroCategory": "torso",
+    "muscleGroup": "Hombros"
+  },
+  {
+    "id": "torso-extension-triceps-polea",
+    "name": "Extensión de tríceps en polea",
+    "macroCategory": "torso",
+    "muscleGroup": "Tríceps"
+  },
+  {
+    "id": "torso-extension-triceps-mancuerna",
+    "name": "Extensión de tríceps con mancuerna",
+    "macroCategory": "torso",
+    "muscleGroup": "Tríceps"
+  },
+  {
+    "id": "torso-press-frances",
+    "name": "Press francés",
+    "macroCategory": "torso",
+    "muscleGroup": "Tríceps"
+  },
+  {
+    "id": "torso-patada-triceps",
+    "name": "Patada de tríceps",
+    "macroCategory": "torso",
+    "muscleGroup": "Tríceps"
+  },
+  {
+    "id": "torso-curl-mancuernas",
+    "name": "Curl con mancuernas",
+    "macroCategory": "torso",
+    "muscleGroup": "Bíceps"
+  },
+  {
+    "id": "torso-curl-barra",
+    "name": "Curl con barra",
+    "macroCategory": "torso",
+    "muscleGroup": "Bíceps"
+  },
+  {
+    "id": "torso-curl-martillo",
+    "name": "Curl martillo",
+    "macroCategory": "torso",
+    "muscleGroup": "Bíceps"
+  },
+  {
+    "id": "torso-curl-polea",
+    "name": "Curl en polea",
+    "macroCategory": "torso",
+    "muscleGroup": "Bíceps"
+  },
+  {
+    "id": "pierna-sentadilla-frontal",
+    "name": "Sentadilla frontal",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-sentadilla-bulgara",
+    "name": "Sentadilla búlgara",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-sentadilla-hack",
+    "name": "Sentadilla hack",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-zancadas",
+    "name": "Zancadas",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-step-up",
+    "name": "Step up",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-sissy-squat",
+    "name": "Sissy squat",
+    "macroCategory": "pierna",
+    "muscleGroup": "Cuádriceps"
+  },
+  {
+    "id": "pierna-peso-muerto-rumano",
+    "name": "Peso muerto rumano",
+    "macroCategory": "pierna",
+    "muscleGroup": "Isquios"
+  },
+  {
+    "id": "pierna-curl-femoral-sentado",
+    "name": "Curl femoral sentado",
+    "macroCategory": "pierna",
+    "muscleGroup": "Isquios"
+  },
+  {
+    "id": "pierna-curl-femoral-pie",
+    "name": "Curl femoral de pie",
+    "macroCategory": "pierna",
+    "muscleGroup": "Isquios"
+  },
+  {
+    "id": "pierna-buenos-dias",
+    "name": "Buenos días",
+    "macroCategory": "pierna",
+    "muscleGroup": "Isquios"
+  },
+  {
+    "id": "pierna-patada-gluteo-polea",
+    "name": "Patada de glúteo en polea",
+    "macroCategory": "pierna",
+    "muscleGroup": "Glúteos"
+  },
+  {
+    "id": "pierna-puente-gluteo",
+    "name": "Puente de glúteo",
+    "macroCategory": "pierna",
+    "muscleGroup": "Glúteos"
+  },
+  {
+    "id": "pierna-zancada-reversa",
+    "name": "Zancada reversa",
+    "macroCategory": "pierna",
+    "muscleGroup": "Glúteos"
+  },
+  {
+    "id": "pierna-abduccion-polea",
+    "name": "Abducción de cadera en polea",
+    "macroCategory": "pierna",
+    "muscleGroup": "Glúteos"
+  },
+  {
+    "id": "pierna-elevacion-talones-pie",
+    "name": "Elevación de talones de pie",
+    "macroCategory": "pierna",
+    "muscleGroup": "Gemelos"
+  },
+  {
+    "id": "pierna-elevacion-talones-sentado",
+    "name": "Elevación de talones sentado",
+    "macroCategory": "pierna",
+    "muscleGroup": "Gemelos"
+  },
+  {
+    "id": "pierna-aductor-polea",
+    "name": "Aductor de cadera en polea",
+    "macroCategory": "pierna",
+    "muscleGroup": "Aductores"
+  },
+  {
+    "id": "pierna-copenhagen-plank",
+    "name": "Copenhagen plank",
+    "macroCategory": "pierna",
+    "muscleGroup": "Aductores"
+  },
+  {
+    "id": "core-plancha",
+    "name": "Plancha",
+    "macroCategory": "core",
+    "muscleGroup": "Abdomen"
+  },
+  {
+    "id": "core-plancha-lateral",
+    "name": "Plancha lateral",
+    "macroCategory": "core",
+    "muscleGroup": "Oblicuos"
+  },
+  {
+    "id": "core-elevaciones-piernas",
+    "name": "Elevaciones de piernas",
+    "macroCategory": "core",
+    "muscleGroup": "Abdomen"
+  },
+  {
+    "id": "core-pallof-press",
+    "name": "Pallof press",
+    "macroCategory": "core",
+    "muscleGroup": "Oblicuos"
+  }
+]
